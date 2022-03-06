@@ -1,4 +1,4 @@
-<h1 align="center"> Hi~ I'm Chloe <img src="https://image.flaticon.com/icons/png/512/132/132233.png" width="30"> </h1>
+<h1 align="center"> Hi~ I'm Chloe </h1>
 <h3 align="center">Data Scientist & AI Researcher</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsyho11&label=Profile%20views&color=0e75b6&style=flat" alt="hsyho11" /> </p>
 - :arrow_right:  More information about me at <a href='https://hsyho11.github.io/' target="_blank"> here </a>
